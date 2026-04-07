@@ -24,7 +24,7 @@ public class NegativeTests {
         $(".submit-button").click();
         $("[data-test=shopping-cart-link]").click();
         $("#checkout").click();
-        $("#first-name").setValue("Nikita");
+        $("#first-name").setValue("TEST");
         $("#last-name").setValue("Starkov");
         $("#postal-code").setValue("200600");
         $("#continue").click();
