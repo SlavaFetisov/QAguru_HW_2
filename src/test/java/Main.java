@@ -3,4 +3,6 @@ public class Main {
     public static void Main(String[] args){
         System.out.println(msg);
     }
+private static String getMessage() {
+        return msg"
 }
